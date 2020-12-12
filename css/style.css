@@ -1,0 +1,139 @@
+body{
+    background-color:white;
+    /* background-color: hsl(190, 100%, 5%); */
+}
+
+@media (max-width:1080px){
+    /* header section  */
+
+    /* .main-header */
+    .main-head{
+        margin-bottom: 0;
+        font-size: 3rem;
+    }
+    .small-head{
+        margin-bottom: 0px;
+        font-size: x-small;
+    }
+    #header{
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .main-header{
+        background-color: hsl(190, 95%, 65%);
+        /* padding:30px 100px; */
+        padding-top: 2rem;
+        padding-bottom: 2.5rem;
+        color: hsl(190, 100%, 5%);
+    }
+
+    /* short-cut-btn */
+
+    .short-cut-btn{
+        margin-top: 20px;
+    }
+
+    .short-cut-btn a{
+        margin-left: 10px;
+    }
+    
+
+    /* about-me */
+    .center-content{
+        margin-bottom: 20px;
+    }
+
+    /* journey-till-now */
+    /* education */
+    .education{
+        border: 2px solid hsl(190, 95%, 65%);
+        border-radius: 2%;
+        padding: 5px 10px;
+        margin-bottom: 20px;
+    }
+    .edu-head{
+        margin-bottom: 20px;
+    }
+
+    .education p{
+        margin-bottom: 0;
+        font-size: small;
+    }
+
+    .edu-duration{
+        word-spacing:8px;
+    }
+
+    /* experience */
+    .experience{
+        border: 2px solid hsl(190, 95%, 65%);
+        border-radius: 2%;
+        padding: 5px 10px;
+        margin-bottom: 20px;
+    }
+
+    .exp-head{
+        margin-bottom: 20px;
+    }
+
+    .experience p{
+        /* margin-bottom: 0; */
+        font-size: small;
+        color: hsl(180, 18%, 15%);
+    }
+
+    .exp-duration{
+        margin-bottom: 10px;
+    }
+
+    /* project */
+    .project{
+        border: 2px solid hsl(190, 95%, 65%);
+        border-radius: 2%;
+        padding: 5px 10px;
+        margin-bottom: 20px;
+    }
+
+    .pro-head{
+        margin-bottom: 20px;
+    }
+    .project p{
+        font-size: small;
+        color: hsl(180, 18%, 15%);
+    }
+    .project-imp{
+        margin-top:20px;
+    }
+
+     /* skills   */
+    .skills{
+        border: 2px solid hsl(190, 95%, 65%);
+        border-radius: 2%;
+        padding: 5px 10px;
+        margin-bottom: 20px;
+    }
+
+    .skill-head{
+        margin-bottom:20px;
+    }
+    .skills p{
+        margin-bottom: 2px;
+        color: hsl(180, 18%, 15%);
+    }
+
+    /* contact  */
+
+    #contact{
+        background-color: hsl(190, 95%, 65%);
+        padding: 30px;
+    }
+
+    .addres{
+        margin-top: 20px;
+        font-size: small;
+    }
+
+
+
+
+}
